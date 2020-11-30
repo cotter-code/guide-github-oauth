@@ -2,7 +2,7 @@ This is a Github OAuth App project that uses [Cotter](https://www.cotter.app), [
 
 ## Getting Started
 
-1. Follow the tutorial at [Cotter's Blog](https://blog.cotter.app).
+1. Follow the tutorial at [Cotter's Blog](https://blog.cotter.app/the-simplest-way-to-authorize-github-oauth-apps-with-nextjs-and-cotter/).
 2. Get your Cotter API Keys on [Cotter's Dashboard](https://dev.cotter.app).
 3. Export your API Keys:
 
