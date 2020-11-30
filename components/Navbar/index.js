@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import Cotter from "cotter";
+import { API_KEY_ID } from "../../apiKeys";
 
 export default function Navbar() {
   const [loggedIn, setloggedIn] = useState(false);

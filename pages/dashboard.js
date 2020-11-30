@@ -3,6 +3,7 @@ import styles from "../styles/Home.module.css";
 import Cotter from "cotter";
 import axios from "axios";
 import Navbar from "../components/Navbar";
+import { API_KEY_ID } from "../apiKeys";
 
 export default function Dashboard() {
   const [err, seterr] = useState(null);

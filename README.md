@@ -12,7 +12,12 @@ export COTTER_API_SECRET_KEY=<API SECRET KEY>
 yarn dev
 ```
 
-4. Replace all `API_KEY_ID` variables with your API KEY ID
+4. Make a file called `apiKeys.js` in the root folder, and copy this into the file:
+
+```js
+export const API_KEY_ID = <API_KEY_ID>;
+```
+
 5. Run the development server
 
 ```bash
